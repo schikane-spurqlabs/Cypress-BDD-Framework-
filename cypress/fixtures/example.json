@@ -1,0 +1,19 @@
+{
+  "operator" : "//span[@onclick=\"r('param')\"]",
+  "outputxpath" : "//div[@id='sciOutPut']",
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "url" : "https://www.calculator.net/",
+  "number" : "span[onclick='r(param)']",
+  "url2" : "https://demoqa.com/",
+  "elements" : "//h5[text()='Elements']",
+  "textBox": "//span[text()='Text Box']",
+  "userName": "input#userName",
+  "userEmail": "input#userEmail",
+  "cAddress": "textArea#currentAddress",
+  "pAddress": "textArea#permanentAddress",
+  "submit": "button#submit",
+   "resultTextBox": "border col-md"
+}
+
